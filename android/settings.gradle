@@ -1,0 +1,3 @@
+rootProject.name = 'unikas_callenge'
+
+include ':app'
